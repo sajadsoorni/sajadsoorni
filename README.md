@@ -1,9 +1,3 @@
-# Hi there! 👋
-
-Welcome to my GitHub profile!  
-
----
-
 ## 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sajad-soornisofla-88674a25a)  
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://uk.pinterest.com/sajadsoorni/)  
